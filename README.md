@@ -16,7 +16,9 @@ Just as you did in the module project, you’ll need to deploy this application 
 
 ## Links
 
-[https://github.com/StrugglerXIV/StrugglerXIV/Struggler-20-React-Portfolio](https://github.com/StrugglerXIV/Struggler-20-React-Portfolio)
+[https://github.com/StrugglerXIV/StrugglerXIV/Struggler-20-React-Portfolio](https://github.com/StrugglerXIV/Struggler-20-React-Portfolio) - Github page
+
+[https://strugglerxiv.github.io/Struggler-20-React-Portfolio/#about](https://strugglerxiv.github.io/Struggler-20-React-Portfolio/#about)  - Deployed app
 
 ## Installation
 
