@@ -11,9 +11,6 @@ Just as you did in the module project, you’ll need to deploy this application 
 - [Links](#links)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Models](#models)
-- [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
 
