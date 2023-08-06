@@ -73,7 +73,7 @@ function Contact() {
           <h3>Contact Me</h3>
           <form className="form">
             {/* Name */}
-            <label for="contact-name">Your Name</label>
+            <label htmlFor="contact-name">Your Name</label>
             <input
               value={userName}
               name="userName"
@@ -84,7 +84,7 @@ function Contact() {
             />
 
             {/* Email */}
-            <label for="contact-email">Your Email</label>
+            <label htmlFor="contact-email">Your Email</label>
             <input
               value={email}
               name="email"
@@ -95,7 +95,7 @@ function Contact() {
             />
 
             {/* Message */}
-            <label for="contact-message">Message</label>
+            <label htmlFor="contact-message">Message</label>
             <textarea
               value={message}
               name="message"

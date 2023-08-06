@@ -30,8 +30,8 @@ function Resume() {
       <section id="home-page-body" className="resume-body">
         <div className="article column1">
           <p className="column-title">Font-End Tech</p>
-          <p className="column-text">
             <ul>
+          <p className="column-text">
               <li className="logo">
                 <MdFoundation />
               </li>
@@ -41,16 +41,16 @@ function Resume() {
               <li>APIs</li>
               <li>Bootstrap</li>
               <li>GIT</li>
-            </ul>
           </p>
+            </ul>
         </div>
 
         <div className="article column2">
           {/* <p><img src="./assets/images/streamline-icon-ai-robot-waiter@48x48.PNG"></p> */}
 
           <p className="column-title">Back-End Tech</p>
-          <p className="column-text">
             <ul>
+          <p className="column-text">
               <li className="logo">
                 <GrTechnology />
               </li>
@@ -61,13 +61,13 @@ function Resume() {
               <li>Sequelize</li>
               <li>Object-Relational Mapping(ORM)</li>
               <li>Model-View-Controller (MVC)</li>
-            </ul>
           </p>
+            </ul>
         </div>
         <div className="article column3">
           <p className="column-title">Performance Tech</p>
-          <p className="column-text">
             <ul>
+          <p className="column-text">
               <li className="logo">
                 <GrDocumentPerformance />
               </li>
@@ -79,8 +79,8 @@ function Resume() {
               <li>React</li>
               <li>MERN</li>
               <li>State</li>
-            </ul>
           </p>
+            </ul>
         </div>
       </section>
     </div>
