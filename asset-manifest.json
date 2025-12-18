@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Struggler-20-React-Portfolio/static/css/main.e2bb206a.css",
-    "main.js": "/Struggler-20-React-Portfolio/static/js/main.17e832e9.js",
+    "main.js": "/Struggler-20-React-Portfolio/static/js/main.17eeceff.js",
     "static/media/portfolioChallenge.png": "/Struggler-20-React-Portfolio/static/media/portfolioChallenge.247462b9293b49bab41a.png",
     "static/media/Profile_Pic.png": "/Struggler-20-React-Portfolio/static/media/Profile_Pic.60707c0528b36a4af28f.png",
+    "static/media/ResumeCV.pdf": "/Struggler-20-React-Portfolio/static/media/ResumeCV.0aea054e236068d022d1.pdf",
     "static/media/Cthulhu.jpg": "/Struggler-20-React-Portfolio/static/media/Cthulhu.9a649f741eefb099516d.jpg",
     "static/media/SVGLogoProject.png": "/Struggler-20-React-Portfolio/static/media/SVGLogoProject.90b82ace982552493a8a.png",
-    "static/media/ResumeCV.pdf": "/Struggler-20-React-Portfolio/static/media/ResumeCV.510c99cb994fde8885be.pdf",
     "static/media/StrugglersMVCChallenge.png": "/Struggler-20-React-Portfolio/static/media/StrugglersMVCChallenge.ec77aa72e322ad49a975.png",
     "static/media/noteTaker.png": "/Struggler-20-React-Portfolio/static/media/noteTaker.5d1809a97d664cb1cd87.png",
     "index.html": "/Struggler-20-React-Portfolio/index.html",
     "main.e2bb206a.css.map": "/Struggler-20-React-Portfolio/static/css/main.e2bb206a.css.map",
-    "main.17e832e9.js.map": "/Struggler-20-React-Portfolio/static/js/main.17e832e9.js.map"
+    "main.17eeceff.js.map": "/Struggler-20-React-Portfolio/static/js/main.17eeceff.js.map"
   },
   "entrypoints": [
     "static/css/main.e2bb206a.css",
-    "static/js/main.17e832e9.js"
+    "static/js/main.17eeceff.js"
   ]
 }
